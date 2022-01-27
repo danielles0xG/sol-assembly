@@ -1,4 +1,2 @@
-# Solidity assembly 
-
-## Gas Optimization example patterns
+# Solidity assembly - Gas Optimization example 
 Testing gas optimization with solidity assembly.
