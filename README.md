@@ -1,2 +1,2 @@
-# sol-assembly
-Testing solidity assembly gas optimization.
+# Sol-assembly
+Testing gas optimization with solidity assembly.
